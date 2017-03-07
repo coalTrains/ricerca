@@ -2,7 +2,8 @@ package test;
 
 public class UserBean {
 
-	private String name, surname;
+	private String name; 
+	private String surname;
 	private String date;
 	private int id;
 
